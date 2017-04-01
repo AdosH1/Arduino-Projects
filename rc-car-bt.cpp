@@ -1,6 +1,6 @@
-//A remote controlled Arduino car by bluetooth
-// Built to work with a HC-06 BT module and 2 motor H-bridge
-// Used a freely available android app - Bluetooth Electronics on the Google Play store to control the rc car with my phone
+//A remote controlled Arduino car using Bluetooth
+// Built to work with the HC-06 BT module and a 2 motor H-bridge
+// User may use a free app on Google Play - 'Bluetooth Electronics' to control the rc car with a phone
 // By Aden Huen
 
 //Motor A pins (pinA1 = forward, pinA2 = backward)
